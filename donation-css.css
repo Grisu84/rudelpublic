@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
+
+body {
+    background: transparent;
+}
+
+.amount-wrapper,
+button.button.arrow,
+a.button.arrow {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold !important;
+}
+
+rythm-target {
+    display: none;
+}
+
+.amount-wrapper .slider-wrapper {
+    background: transparent;
+}
